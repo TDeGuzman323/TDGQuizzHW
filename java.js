@@ -29,7 +29,17 @@
         options: ["SHEQC", "JAVA", "PYTHON", "NCIS"],
         answer: 0
     }, {
-        question:
-    }
-    }]
-}
+        question: "Large stories or multiple user stories that are very closely related are summarized as what? ",
+        options: ["Initiave", "Theme", "Epics", "Story Map"],
+        answer: 2
+    }, {
+        question: "Fill in the blank: A story-map is a graphical, two-dimensional visualization of the ---",
+        options: ["Hierarchically", "Activities", "Product Backlog", "Workflow"],
+        answer: 2
+    }, {
+        question: "Why do themes exist in Jira?",
+        options: ["for to-do lists", "for tracking purposes", "features", "product design"],
+        answer: 1
+    }];
+
+    
