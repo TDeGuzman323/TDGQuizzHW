@@ -1,0 +1,58 @@
+body{
+    font-family: 'Playfair Display', serif; 
+}
+
+h1{
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+.button{
+    width: 80px;
+    height: 25px;
+    text-align: center;
+    float: right;
+    background-color: white;
+    margin: 0 3px 0 3px;
+}
+
+.button a{
+    text-decoration: none;
+    color: #555;
+    line-height: 25px;
+}
+
+#container{
+    width: 50%;
+    margin: 150px auto;
+    padding: 50px 30px;
+    background-color: #4aaaa5;
+    border-radius: 3px;
+    color: white;
+    box-shadow: 0 0 8px 0 lightgrey;
+    font-family: 'Playfair Display', serif;
+}
+
+ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    width: 500px;
+}
+
+ul li{
+    background: teal;
+    width: 200px;
+    margin: 10px;
+    padding: 5px;
+    display: inline-block;
+}
+
+#start{
+    display: none;
+    width: 100px;
+}
+
+input[type="radio"]{
+    cursor: pointer;
+}
