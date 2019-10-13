@@ -180,7 +180,7 @@ function startTimer(duration, display) {
 }
 
 jQuery(function ($) {
-    var fiveMinutes = 30,
+    var fiveMinutes = 60 * 5,
         display = $('#time');
     startTimer(fiveMinutes, display);
 });
