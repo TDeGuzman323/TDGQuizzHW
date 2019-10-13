@@ -51,6 +51,7 @@ ul li{
 #start{
     display: none;
     width: 100px;
+    font-family: 'Cinzel', serif;
 }
 
 input[type="radio"]{
